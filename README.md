@@ -8,6 +8,7 @@
   - [Prerequisites and Installation](https://github.com/Johnremilekun/osticket-prereqs)
   - [Post-Installation Configuration](https://github.com/Johnremilekun/post-install-config)
   - [Ticket Lifecycle Examples](https://github.com/Johnremilekun/ticket-lifecycle)
+  - [Osticket Prep](https://github.com/Johnremilekun/osticket-prereqs1)
 </details>
 
 <details open>

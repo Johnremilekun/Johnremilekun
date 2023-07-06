@@ -1,4 +1,4 @@
-  <h1>HI I'm <i><a href="https://www.linkedin.com/in/johnoluremicollins/">John</a></i>, an IT Professional</h1>
+  <h1>Hi I'm <i><a href="https://www.linkedin.com/in/johnoluremicollins/">John</a></i>, an IT Professional</h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
@@ -22,4 +22,4 @@
 
 [<img align="left" alt="JTYK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/jameson-kolesar/
+[linkedin]: https://www.linkedin.com/in/johnoluremicollins/

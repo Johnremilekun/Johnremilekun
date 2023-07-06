@@ -1,4 +1,4 @@
-  <h1>HI I am <i><a href="https://www.linkedin.com/in/johnoluremicollins/">John</a></i>, an IT Professional</h1>
+  <h1>HI I'm <i><a href="https://www.linkedin.com/in/johnoluremicollins/">John</a></i>, an IT Professional</h1>
 
 <h2>💻 Information Technology Projects:</h2>
 

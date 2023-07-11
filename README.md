@@ -15,7 +15,7 @@
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
 
   - [Creating an Azure Account ➔ Establishing a Virtual Machine](https://github.com/Johnremilekun/azure-start)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Johnremilekun/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Johnremilekun/configure-activedirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Johnremilekun/azure-network-protocols)
 </details>
 

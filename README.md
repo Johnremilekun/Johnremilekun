@@ -7,6 +7,7 @@
   <summary><img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/></summary>
 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Johnremilekun/configure-activedirectory)
+  - [Setup EC2 Instance with Ec3 user data](https://github.com/Johnremilekun/Ec2-instance-with-user-data/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Johnremilekun/network-security-group-configuration)
 </details>
 
